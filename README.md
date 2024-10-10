@@ -9,3 +9,6 @@
 * Task 6: Deploy as web application using Flask
 * Task 7: Incorporate Error handling
 * Task 8: Run static code analysis
+
+
+#
